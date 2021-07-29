@@ -1,0 +1,11 @@
+n1=(10.5)
+n2=(10010)
+n3=(1375)
+n4=(90.13)
+n5=(5)
+res=n1*n2*n3*n4*n5
+print(type(res),res)
+res1=n1+n2+n3+n4+n5
+print(type(res1),res1)
+res2=n1/n2*n3-n4+n5
+print(type(res2),res2)
